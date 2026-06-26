@@ -35,7 +35,7 @@ I am a highly motivated Software Engineering postgraduate with a diverse academi
 ---
 
 ### 🤝 Connect with Me
-*   **LinkedIn:** https://www.linkedin.com/in/ivelina-misova-108b30411/
+*   **LinkedIn:** https://www.linkedin.com/in/i-misova/
 *   **Email:** ivelina.misova@abv.bg
 *   **MyPortfolio** https://ivelinamisova.wordpress.com/
 
